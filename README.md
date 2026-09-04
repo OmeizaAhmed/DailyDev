@@ -9,6 +9,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | Day | Topic | Local | LinkedIn |
 | --- | --- | --- | --- |
 | 01 | REST vs SOAP | [Read the post](01_Rest_VS_Soap.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/rest-vs-soap-two-ways-apis-talk-same-way-omeiza-ahmed-s5the) |
+| 02 | Cache Avalanche | [Read the post](02_Cache_Avalanche.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cache-avalanche-when-your-fails-database-pays-price-omeiza-ahmed-exeue) |
 
 New posts will be added to this table as they are published.
 
