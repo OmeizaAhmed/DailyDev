@@ -13,6 +13,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 03 | Data Masking vs Obfuscation | [Read the post](03_Data_Masking_VS_Obfuscation.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/data-masking-vs-obfuscation-hiding-always-same-omeiza-ahmed-4ygte) |
 | 04 | DoS vs DDoS | [Read the post](04_Dos_VS_Ddos.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dos-vs-ddos-one-attacker-many-machines-same-goal-omeiza-ahmed-inrre) |
 | 05 | Encryption vs Hashing | [Read the post](05_Encryption_VS_Hashing.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/encryption-vs-hashing-theyre-same-thing-omeiza-ahmed-rvloe) |
+| 06 | Dynamic Programming | [Read the post](06_Dynamic_Programming.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dynamic-programming-stop-solving-same-problem-twice-omeiza-ahmed-z23te) |
 
 New posts will be added to this table as they are published.
 
