@@ -15,6 +15,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 05 | Encryption vs Hashing | [Read the post](05_Encryption_VS_Hashing.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/encryption-vs-hashing-theyre-same-thing-omeiza-ahmed-rvloe) |
 | 06 | Dynamic Programming | [Read the post](06_Dynamic_Programming.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dynamic-programming-stop-solving-same-problem-twice-omeiza-ahmed-z23te) |
 | 07 | Firewall vs IDS | [Read the post](07_Firewall_VS_IDS.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/firewall-vs-ids-whats-difference-omeiza-ahmed-iznte) |
+| 08 | Dependency Injection | [Read the post](08_Dependency_Injection.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dependency-injection-stop-letting-your-classes-build-own-omeiza-ahmed-pwshe) |
 
 New posts will be added to this table as they are published.
 
