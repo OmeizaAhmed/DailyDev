@@ -17,6 +17,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 07 | Firewall vs IDS | [Read the post](07_Firewall_VS_IDS.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/firewall-vs-ids-whats-difference-omeiza-ahmed-iznte) |
 | 08 | Dependency Injection | [Read the post](08_Dependency_Injection.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dependency-injection-stop-letting-your-classes-build-own-omeiza-ahmed-pwshe) |
 | 09 | Access Modifiers in C# | [Read the post](09_Access_Modifiers.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/c-access-modifiers-who-gets-touch-your-code-omeiza-ahmed-bzb4e) |
+| 10 | Namespace vs Assembly | [Read the post](10_Namespace_VS_Assembly.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/namespace-vs-assembly-aspnet-theyre-same-thing-omeiza-ahmed-g51fe) |
 New posts will be added to this table as they are published.
 
 ## File Naming
