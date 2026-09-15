@@ -20,6 +20,8 @@ The goal of this project is to build a consistent learning archive covering soft
 | 10 | Namespace vs Assembly | [Read the post](10_Namespace_VS_Assembly.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/namespace-vs-assembly-aspnet-theyre-same-thing-omeiza-ahmed-g51fe) |
 | 11 | SOLID Design Principles | [Read the post](11_Solid_Design_Principles.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/solid-design-principles-5-rules-make-your-code-easier-omeiza-ahmed-cbh8e) |
 | 12 | Middleware vs Filter in ASP.NET Core | [Read the post](12_Middleware_VS_Filter.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/middleware-vs-filter-aspnet-core-whats-difference-omeiza-ahmed-uzsqe) |
+| 13 | Deadlock | [Read the post](13_Deadlock.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/deadlocks-when-your-threads-waiting-forever-omeiza-ahmed-htsee) |
+
 
 New posts will be added to this table as they are published.
 
