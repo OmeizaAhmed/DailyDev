@@ -25,7 +25,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 15 | Monolithic vs Microservices | [Read the post](15_Monolithic_VS_Microservices.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/monolith-vs-microservices-when-should-you-split-your-omeiza-ahmed-idioe) |
 | 16 | YAML vs JSON | [Read the post](16_Yaml_VS_Json.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/yaml-vs-json-same-data-different-trade-offs-omeiza-ahmed-nhoee) |
 | 17 | Process vs Thread | [Read the post](17_Process_VS_Thread.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/process-vs-thread-whats-really-running-your-omeiza-ahmed-fpgqe) |
-
+| 18 | Rate Limiting | [Read the post](18_RateLimiting.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/rate-limiting-traffic-cop-your-api-needs-omeiza-ahmed-bnsxe) |
 
 New posts will be added to this table as they are published.
 
