@@ -30,6 +30,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 20 | HTTP/1.1 vs HTTP/2 vs HTTP/3 | [Read the post](20_HTTP/1.1_VS_HTTP/2_VS_HTTP/3.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/http11-vs-http2-http3-what-actually-changed-omeiza-ahmed-rfqpe) |
 | 21 | Cursor Pagination vs Offset Pagination | [Read the post](21_Cursor_Pagination_VS_Offset_Pagination.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cursor-pagination-vs-offset-which-one-should-you-use-omeiza-ahmed-okrne) |
 | 22 | Webhooks vs Polling | [Read the post](22_Webhook_VS_Polling.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/webhooks-vs-polling-how-should-your-systems-omeiza-ahmed-qpohe) |
+| 23 | CORS Explained | [Read the post](23_CORS.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cors-explained-why-your-browser-blocks-api-omeiza-ahmed-otice) |
 
 
 New posts will be added to this table as they are published.
