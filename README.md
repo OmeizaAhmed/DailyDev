@@ -37,6 +37,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 27 | Stack vs Heap in .NET | [Read the post](27_Stack_VS_Heap.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/stack-vs-heap-net-where-does-your-data-actually-live-omeiza-ahmed-asi5e) |
 | 28 | IEnumerable vs IQueryable | [Read the post](28_IEnumerable_VS_IQueryable.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/ienumerable-vs-iqueryable-where-does-your-query-actually-omeiza-ahmed-rezme) |
 | 29 | CancellationToken in .NET | [Read the post](29_CancellationToken.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cancellationtoken-c-stop-wasting-resources-work-nobody-omeiza-ahmed-psa5e) |
+| 30 | Records vs Classes in C# | [Read the post](30_Records_VS_Classes.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/records-vs-classes-c-when-should-you-use-each-omeiza-ahmed-ymg6e) |
 
 
 
