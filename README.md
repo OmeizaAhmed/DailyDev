@@ -43,6 +43,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 33 | CAP Theorem | [Read the post](33_CAP_Theorem.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cap-theorem-trade-off-behind-distributed-systems-omeiza-ahmed-6ndoe) |
 | 34 | Partitioning vs Sharding | [Read the post](34_Partitioning_vs_Sharding.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/partitioning-vs-sharding-whats-difference-omeiza-ahmed-amr7e) |
 | 35 | Authentication vs Authorization | [Read the post](35_Authentication_VS_Authorization.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/authentication-vs-authorization-who-you-what-allowed-do-omeiza-ahmed-v8ymc) |
+| 36 | BFS vs DFS | [Read the post](36_BFS_VS_DFS.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/bfs-vs-dfs-explore-nearby-go-deeper-omeiza-ahmed-skome) |
 
 
 New posts will be added to this table as they are published.
