@@ -45,6 +45,8 @@ The goal of this project is to build a consistent learning archive covering soft
 | 35 | Authentication vs Authorization | [Read the post](35_Authentication_VS_Authorization.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/authentication-vs-authorization-who-you-what-allowed-do-omeiza-ahmed-v8ymc) |
 | 36 | BFS vs DFS | [Read the post](36_BFS_VS_DFS.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/bfs-vs-dfs-explore-nearby-go-deeper-omeiza-ahmed-skome) |
 | 37 | Pub/Sub Messaging: Let One Event Trigger Many Actions | [Read the post](37_Pub_Sub.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/pubsub-messaging-let-one-event-trigger-many-actions-omeiza-ahmed-n0fxe) |
+| 38 | JSON Web Tokens: What Your API Should Actually Trust | [Read the post](38_JSON_Web_Tokens.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/json-web-tokens-what-your-api-should-actually-trust-omeiza-ahmed-rv77e) |
+
 
 New posts will be added to this table as they are published.
 
