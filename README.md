@@ -49,7 +49,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 39 | Principle of Least Privilege: Does Your App Really Need Admin Access? | [Read the post](39_Principle_Of_Least_Priveleges.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/principle-least-privilege-does-your-app-really-need-admin-ahmed-cjfke) |
 | 40 | CI vs CD: Passing Tests Is Only Part of Shipping Software | [Read the post](40_CI_CD.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/ci-vs-cd-passing-tests-only-part-shipping-software-omeiza-ahmed-8ffae/) |
 | 41 | Profiling a Slow Application: Stop Guessing, Start Measuring | [Read the post](41_Profiling_A_Slow_Application.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/profiling-slow-application-stop-guessing-start-measuring-omeiza-ahmed-b5eee) |
-
+| 42 | Chaos Engineering: Why Breaking Your System Makes It More Reliable | [Read the post](42_Chaos_Engineering.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/chaos-engineering-why-breaking-your-system-makes-more-omeiza-ahmed-yof9e) |
 New posts will be added to this table as they are published.
 
 ## File Naming
