@@ -51,6 +51,9 @@ The goal of this project is to build a consistent learning archive covering soft
 | 41 | Profiling a Slow Application: Stop Guessing, Start Measuring | [Read the post](41_Profiling_A_Slow_Application.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/profiling-slow-application-stop-guessing-start-measuring-omeiza-ahmed-b5eee) |
 | 42 | Chaos Engineering: Why Breaking Your System Makes It More Reliable | [Read the post](42_Chaos_Engineering.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/chaos-engineering-why-breaking-your-system-makes-more-omeiza-ahmed-yof9e) |
 | 43 | Unit Tests vs Integration Tests: What's the Difference, and Why Do You Need Both? | [Read the post](43_Unit_VS_Integration_Test.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/unit-tests-vs-integration-whats-difference-why-do-you-omeiza-ahmed-msgve) |
+| 44 | Infrastructure as Code (IaC): Stop Managing Infrastructure Manually | [Read the post](44_Infrastructure_as_code.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/infrastructure-code-iac-stop-managing-manually-omeiza-ahmed-wg9qe) |
+
+
 New posts will be added to this table as they are published.
 
 ## File Naming
