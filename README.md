@@ -54,7 +54,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 44 | Infrastructure as Code (IaC): Stop Managing Infrastructure Manually | [Read the post](44_Infrastructure_as_code.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/infrastructure-code-iac-stop-managing-manually-omeiza-ahmed-wg9qe) |
 | 45 | Cross-Site Scripting (XSS): When User Input Becomes Executable Code | [Read the post](45_Cross-Site_Scripting.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cross-site-scripting-xss-when-user-input-becomes-executable-ahmed-ejmoe) |
 | 46 | Cross-Site Request Forgery (CSRF): When a Trusted Browser Becomes an Attack Tool | [Read the post](46_Cross-Site_Request_Forgery.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cross-site-request-forgery-csrf-when-trusted-browser-becomes-ahmed-x2bfe) |
-
+| 47 | Containers vs Virtual Machines: What's the Difference, and When Should You Use Each? | [Read the post](47_Container_VS_Virtual_Machine.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/containers-vs-virtual-machines-whats-difference-when-should-ahmed-es3ke) |
 
 New posts will be added to this table as they are published.
 
