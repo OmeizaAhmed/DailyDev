@@ -56,6 +56,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 46 | Cross-Site Request Forgery (CSRF): When a Trusted Browser Becomes an Attack Tool | [Read the post](46_Cross-Site_Request_Forgery.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cross-site-request-forgery-csrf-when-trusted-browser-becomes-ahmed-x2bfe) |
 | 47 | Containers vs Virtual Machines: What's the Difference, and When Should You Use Each? | [Read the post](47_Container_VS_Virtual_Machine.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/containers-vs-virtual-machines-whats-difference-when-should-ahmed-es3ke) |
 | 48 | SQL Injection: When User Input Becomes a Database Command | [Read the post](48_SQl_Injection.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/sql-injection-when-user-input-becomes-database-command-omeiza-ahmed-bunie) |
+| 49 | DRY vs WET Code: When Repeating Yourself Is Actually Better | [Read the post](49_Wet_VS_Dry_code.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dry-vs-wet-code-when-repeating-yourself-actually-better-omeiza-ahmed-tu2ae) |
 
 New posts will be added to this table as they are published.
 
