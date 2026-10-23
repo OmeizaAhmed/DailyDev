@@ -58,6 +58,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 48 | SQL Injection: When User Input Becomes a Database Command | [Read the post](48_SQl_Injection.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/sql-injection-when-user-input-becomes-database-command-omeiza-ahmed-bunie) |
 | 49 | DRY vs WET Code: When Repeating Yourself Is Actually Better | [Read the post](49_Wet_VS_Dry_code.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dry-vs-wet-code-when-repeating-yourself-actually-better-omeiza-ahmed-tu2ae) |
 | 50 | Observer Pattern: How to Keep Components in Sync Without Tight Coupling | [Read the post](50_Observer_Pattern.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/observer-pattern-how-keep-components-sync-without-tight-omeiza-ahmed-xnfqe) |
+| 51 | Technical Debt: The Hidden Cost of Moving Fast in Software Development | [Read the post](51_Technical_Debt.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/technical-debt-hidden-cost-moving-fast-software-omeiza-ahmed-m0gved) |
 
 New posts will be added to this table as they are published.
 
