@@ -59,6 +59,8 @@ The goal of this project is to build a consistent learning archive covering soft
 | 49 | DRY vs WET Code: When Repeating Yourself Is Actually Better | [Read the post](49_Wet_VS_Dry_code.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/dry-vs-wet-code-when-repeating-yourself-actually-better-omeiza-ahmed-tu2ae) |
 | 50 | Observer Pattern: How to Keep Components in Sync Without Tight Coupling | [Read the post](50_Observer_Pattern.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/observer-pattern-how-keep-components-sync-without-tight-omeiza-ahmed-xnfqe) |
 | 51 | Technical Debt: The Hidden Cost of Moving Fast in Software Development | [Read the post](51_Technical_Debt.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/technical-debt-hidden-cost-moving-fast-software-omeiza-ahmed-m0gved) |
+| 52 | Cross-Site Request Forgery (CSRF): When Your Browser Becomes the Attacker | [Read the post](52_Cross-Site_Request_Forgery.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cross-site-request-forgery-csrf-when-your-browser-becomes-ahmed-7mime) |
+
 
 New posts will be added to this table as they are published.
 
