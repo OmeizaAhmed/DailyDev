@@ -62,6 +62,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 52 | Cross-Site Request Forgery (CSRF): When Your Browser Becomes the Attacker | [Read the post](52_Cross-Site_Request_Forgery.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/cross-site-request-forgery-csrf-when-your-browser-becomes-ahmed-7mime) |
 | 53 | Supply Chain Attacks: When Trusted Dependencies Become a Security Risk | [Read the post](53_Supply_Chain_Attacks.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/supply-chain-attacks-when-trusted-dependencies-become-omeiza-ahmed-fxrie) |
 | 54 | Test-Driven Development (TDD): Write the Test Before the Code | [Read the post](54_Test_Driven_Development.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/test-driven-development-tdd-write-test-before-code-omeiza-ahmed-5zxke) |
+| 55 | Secrets Management: Why Your API Keys and Passwords Should Never Live in Your Code | [Read the post](55_Secrets_Management.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/secrets-management-why-your-api-keys-passwords-should-omeiza-ahmed-yxjke) |
 
 
 New posts will be added to this table as they are published.
