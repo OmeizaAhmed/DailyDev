@@ -63,7 +63,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 53 | Supply Chain Attacks: When Trusted Dependencies Become a Security Risk | [Read the post](53_Supply_Chain_Attacks.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/supply-chain-attacks-when-trusted-dependencies-become-omeiza-ahmed-fxrie) |
 | 54 | Test-Driven Development (TDD): Write the Test Before the Code | [Read the post](54_Test_Driven_Development.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/test-driven-development-tdd-write-test-before-code-omeiza-ahmed-5zxke) |
 | 55 | Secrets Management: Why Your API Keys and Passwords Should Never Live in Your Code | [Read the post](55_Secrets_Management.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/secrets-management-why-your-api-keys-passwords-should-omeiza-ahmed-yxjke) |
-
+| 56 | Salting vs Peppering Passwords: What’s the Difference? | [Read the post](56_Salting_VS_Peppering_Passwords.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/salting-vs-peppering-passwords-whats-difference-omeiza-ahmed-wufue) |
 
 New posts will be added to this table as they are published.
 
