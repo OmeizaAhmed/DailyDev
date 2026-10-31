@@ -64,6 +64,7 @@ The goal of this project is to build a consistent learning archive covering soft
 | 54 | Test-Driven Development (TDD): Write the Test Before the Code | [Read the post](54_Test_Driven_Development.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/test-driven-development-tdd-write-test-before-code-omeiza-ahmed-5zxke) |
 | 55 | Secrets Management: Why Your API Keys and Passwords Should Never Live in Your Code | [Read the post](55_Secrets_Management.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/secrets-management-why-your-api-keys-passwords-should-omeiza-ahmed-yxjke) |
 | 56 | Salting vs Peppering Passwords: What’s the Difference? | [Read the post](56_Salting_VS_Peppering_Passwords.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/salting-vs-peppering-passwords-whats-difference-omeiza-ahmed-wufue) |
+| 57 | OpenID Connect: What “Sign in with Google” Actually Adds to OAuth | [Read the post](57_OpenID_Connect.md) | [Read on LinkedIn](https://www.linkedin.com/pulse/openid-connect-what-sign-google-actually-adds-oauth-omeiza-ahmed-rusue) |
 
 New posts will be added to this table as they are published.
 
